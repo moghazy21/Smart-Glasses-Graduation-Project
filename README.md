@@ -4,7 +4,7 @@
 
 ![demo](docs/demo.gif)
 
-**Graduation Project** · Badr University in Cairo · Supervisor: Dr. ______
+**Graduation Project** · Badr University in Cairo · Supervisor: Dr. Nihal Hosny
 
 ## Why
 
